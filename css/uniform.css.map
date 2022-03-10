@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,KAAK,EAAE,KAAK;CACf",
-    "sources": [
-        "../sass/components/uniform.scss"
-    ],
-    "names": [],
-    "file": "uniform.css"
-}
