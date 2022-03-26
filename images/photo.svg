@@ -1,0 +1,11 @@
+<svg aria-hidden="true" style="position:absolute;width:0;height:0" xmlns="http://www.w3.org/2000/svg" overflow="hidden">
+  <defs>
+    <symbol id="icon-Rectangle-47" viewBox="0 0 120 32">
+      <path fill="var(--color1, #014df5)" d="M10.08 6.078h99.84c5.567 0 10.08 4.513 10.08 10.08s-4.513 10.08-10.08 10.08H10.08C4.513 26.238 0 21.725 0 16.158s4.513-10.08 10.08-10.08z"/>
+    </symbol>
+    <symbol id="icon-Union" viewBox="0 0 30 32">
+      <path d="M30.052 8.409H7.441L0 .981h22.624c4.103 0 7.428 3.325 7.428 7.428zm0 3.857v7.428H18.747l-7.441-7.428h18.747zm0 18.714v-7.429h-7.441l7.441 7.429z"/>
+      <path d="M30.052 8.409H7.441L0 .981h22.624c4.103 0 7.428 3.325 7.428 7.428zm0 3.857v7.428H18.747l-7.441-7.428h18.747zm0 18.714v-7.429h-7.441l7.441 7.429z"/>
+    </symbol>
+  </defs>
+</svg>
